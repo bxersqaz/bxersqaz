@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**bxersqaz/bxersqaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anirudh and my interst lies in working on ML/AI
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML/AI
 - 🌱 I’m currently learning DL
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email:panirudh1@gmail.com
 - 😄 Pronouns: 2211
 - ⚡ Fun fact: yes
--->
+
